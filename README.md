@@ -2,4 +2,4 @@
 
 Desenvolvedor: Thalyson Barros Pereira
 
-Aplicação desenvolvida com Python.
+Aplicação desenvolvida com Python e MySQL.
